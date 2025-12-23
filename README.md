@@ -11,10 +11,10 @@ Python, Pandas, JSON data (Spotify Extended Streaming History), Power BI (for vi
 
 Outcomes:
 
-Total listening time and play count
-Most listened songs and artists
-Morning vs evening listening behavior
-Longest listening streak
-Most frequently clicked songs
-Seasonal listening patterns
-Power BI visualisation
+Total listening time and play count,
+Most listened songs and artists,
+Morning vs evening listening behavior,
+Longest listening streak,
+Most frequently clicked songs,
+Seasonal listening patterns,
+Power BI visualisation,
