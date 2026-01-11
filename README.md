@@ -17,4 +17,5 @@ Morning vs evening listening behavior,
 Longest listening streak,
 Most frequently clicked songs,
 Seasonal listening patterns,
-Power BI visualisation,
+Power BI visualisation
+
